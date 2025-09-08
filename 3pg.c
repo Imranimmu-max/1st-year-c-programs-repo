@@ -25,3 +25,10 @@ int main(){
     printf("\n");
     return 0;
     }
+
+//     output
+//     Enter the limit: 10
+// Prime numbers from 2 to 10 are: 2 
+// 3 
+// 5 
+// 7 

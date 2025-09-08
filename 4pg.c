@@ -29,3 +29,10 @@ void  main(){
 
     
 }
+
+
+// output:
+// enter a number : 121
+// the sum of digits of the given number is : 4
+// the reverse of the given number is 121 
+// 121 is palindrome
