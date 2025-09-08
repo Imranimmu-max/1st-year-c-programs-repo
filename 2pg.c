@@ -22,3 +22,11 @@ int main(){
 
     return 0;
 }
+
+// enetr a  :
+// 10
+// enter b  :
+// 20
+// enter c  :
+// 30
+// 30 id bigger

@@ -18,3 +18,7 @@ void main(){
     printf("fail\n");
  }
 }
+
+// output
+// enter ur marks : 100
+// distinction

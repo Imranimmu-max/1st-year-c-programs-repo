@@ -16,3 +16,10 @@ void main(){
     }
     printf("sum all positive number are %d\n",sum);
 }
+
+// output:
+// enter a number press 999 to stop 100
+// 500
+// 600
+// 999
+// sum all positive number are 1200

@@ -19,3 +19,8 @@ void main(){
     
     
 }
+
+
+// enter the raadius of circle : 5
+// the area od circle is = 78.500000
+// the circumference is = 31.400002
