@@ -39,3 +39,5 @@ void main(){
 // imran@imran-Vostro-2520:~/Documents/"c" clg prohrams$ ./a.out
 // enter value for a,b,c : 10 20 30 
 // two and real roots exists -1.000000 and -1.000000 
+
+// math.h lib not avaible add -lm to run 
